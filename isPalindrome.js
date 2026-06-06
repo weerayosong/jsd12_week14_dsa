@@ -28,7 +28,7 @@ isPalindrome("JEDI"); // false
 console.log("\n= = = = = = = =\n= = = = = = = =\n");
 
 /* ---------------------------------------------- */
-/* ---- 😇 My Brute way to deal with DSA 😎 ---- */
+/* ---- 😇 My Refined way to deal with DSA 😎 ---- */
 /* ---------------------------------------------- */
 /* - isPalindrome - */
 
